@@ -48,6 +48,12 @@ export default function App() {
               <Nav.Link href='https://github.com/near-daos/sputnik-dao-contract/blob/372df7d715c4c7c06ba14a3ba5b4db65f50b81f9/sputnikdao-factory2/src/lib.rs'>
                 Sputnik DAO Example
               </Nav.Link>
+
+              <Nav.Link
+                href={"https://www.near-sdk.io/promises/deploy-contract"}
+              >
+                NEAR SDK
+              </Nav.Link>
             </Nav>
             <Nav.Link
               onClick={window.walletConnection.isSignedIn() ? logout : login}

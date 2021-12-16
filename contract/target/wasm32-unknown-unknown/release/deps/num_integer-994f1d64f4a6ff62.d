@@ -1,0 +1,9 @@
+/Users/doriankinoocrutcher/Documents/NEAR/Developer/contract-that-deploys-contracts/contract/target/wasm32-unknown-unknown/release/deps/num_integer-994f1d64f4a6ff62.rmeta: /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/lib.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/roots.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/average.rs
+
+/Users/doriankinoocrutcher/Documents/NEAR/Developer/contract-that-deploys-contracts/contract/target/wasm32-unknown-unknown/release/deps/libnum_integer-994f1d64f4a6ff62.rlib: /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/lib.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/roots.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/average.rs
+
+/Users/doriankinoocrutcher/Documents/NEAR/Developer/contract-that-deploys-contracts/contract/target/wasm32-unknown-unknown/release/deps/num_integer-994f1d64f4a6ff62.d: /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/lib.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/roots.rs /Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/average.rs
+
+/Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/lib.rs:
+/Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/roots.rs:
+/Users/doriankinoocrutcher/.cargo/registry/src/github.com-1ecc6299db9ec823/num-integer-0.1.43/src/average.rs:
